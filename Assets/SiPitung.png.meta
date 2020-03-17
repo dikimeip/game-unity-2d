@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f305f734e14f4b44f84a8acd00d9fc53
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SiPitung_0
+    21300002: SiPitung_1
+    21300004: SiPitung_2
+    21300006: SiPitung_3
+    21300008: SiPitung_4
+    21300010: SiPitung_5
+    21300012: SiPitung_6
+    21300014: SiPitung_7
+    21300016: SiPitung_8
+    21300018: SiPitung_9
+    21300020: SiPitung_10
+    21300022: SiPitung_11
+    21300024: SiPitung_12
+    21300026: SiPitung_13
+    21300028: SiPitung_14
+    21300030: SiPitung_15
+    21300032: SiPitung_16
+    21300034: SiPitung_17
+    21300036: SiPitung_18
+    21300038: SiPitung_19
+    21300040: SiPitung_20
+    21300042: SiPitung_21
+    21300044: SiPitung_22
+    21300046: SiPitung_23
+    21300048: SiPitung_24
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SiPitung_0
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1474
+        width: 90
+        height: 327
+      alignment: 9
+      pivot: {x: 0.31266004, y: 0.85061693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525e2ae2511a676409c287d027bcf5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_1
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1474
+        width: 81
+        height: 327
+      alignment: 9
+      pivot: {x: 0.4167375, y: 0.8299923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626792580f4192b418914bb21d9810fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_2
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1495
+        width: 105
+        height: 284
+      alignment: 9
+      pivot: {x: 0.49999884, y: 0.8205876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a4f07f54179c45a8e675df854d235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1514
+        width: 104
+        height: 287
+      alignment: 9
+      pivot: {x: 0.56484866, y: 0.8054871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb9024a40ef7643bcad94cb62f2b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_4
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 1251
+        width: 672
+        height: 703
+      alignment: 9
+      pivot: {x: 0.3996393, y: 0.049105603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a9ceb2c4b7d84d8141786b0e08e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 935
+        width: 279
+        height: 366
+      alignment: 9
+      pivot: {x: 0.5725185, y: 0.8685366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c16caa15cbce4c9c932e92d10f06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 928
+        width: 153
+        height: 365
+      alignment: 9
+      pivot: {x: 0.2355199, y: 0.8972623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384db99bb0275614a9d5319db536e689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_7
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1090
+        width: 62
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4456098, y: 0.854071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaca8a657ca0194785387c69f71e5c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1021
+        width: 57
+        height: 202
+      alignment: 9
+      pivot: {x: 0.559157, y: 0.81717795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e585ea3a67b140b1f0c1eb043a4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 795
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24791dbd25a986b4a8177e441fdf1b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_10
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 828
+        width: 141
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf8cc359275ec4ea67e72b97b61308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_11
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 434
+        width: 259
+        height: 574
+      alignment: 9
+      pivot: {x: 0.40886107, y: 0.07701706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74447d465b20c4144b8169e197bf6f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_12
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 695
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc8bfda8e3d704395c87aa6d20a920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_13
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 689
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e45898ff2aa7409075d5070cd7fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_14
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 672
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a601ac537f6814bbdbef7ed371edf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_15
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 669
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ff6a5549c0e74794be31dc3f52960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_16
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 669
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a25759f0065846b8ea86379aad21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_17
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 649
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57dd24d0f517234297f955a7f6fee46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_18
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 636
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0eb8b3793edfe499b5d8f1fb9b5795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_19
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 617
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80faec25be11945b5b77dd774b18ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 557
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575e2a38b794ed4f8e8b06857e9334c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_21
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 517
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08993bf68255954583c45e9cbe7ce18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 85
+        width: 638
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72055e0bc7fa7c04d90c172a5f532a56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_23
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 72
+        width: 641
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce11012fc3c124eacdbd8f393591f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SiPitung_24
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 108
+        width: 641
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1374e6b35360b59488ce190e3b012e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe5cd09ea947b8d47abad1a0b159a688
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
